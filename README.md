@@ -1,6 +1,6 @@
 # CookingAssistant
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.0.
+This project was made using angular course on udemy made by Maximilian-Schwarzmuller called Angular - The Complete Guide (2022 Edition). As of now this project is on Section 16 of the udemy course.
 
 ## Development server
 
