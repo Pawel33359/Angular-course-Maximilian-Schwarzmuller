@@ -1,6 +1,6 @@
 # CookingAssistant
 
-This project was made using angular course on udemy made by Maximilian-Schwarzmuller called Angular - The Complete Guide (2022 Edition). As of now this project is on Section 19 of the udemy course.
+This project was made using angular course on udemy made by Maximilian-Schwarzmuller called Angular - The Complete Guide (2022 Edition). As of now this project is on Section 20 of the udemy course.
 
 ## Development server
 
